@@ -17,7 +17,7 @@ public class Aulas {
 	public String ciclo;
 @Column (length= 40)	
 	public String nombre;
-@Column (length= 15)
+@Column (length= 25)
 	public String curso;
 @Column (length= 50)	
 	public String estado;
