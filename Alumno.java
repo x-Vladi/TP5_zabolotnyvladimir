@@ -12,7 +12,7 @@ public class Alumno extends Persona {
 	
 	private Gimnasio gimnasio;
 	
-@Column (length=4) @Id @Required
+@Column (length=6) @Id @Required
 	public String identificador;
 
 public String getIdentificador() {
