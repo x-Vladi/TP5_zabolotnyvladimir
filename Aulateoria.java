@@ -6,7 +6,7 @@ import org.openxava.aulas.*;
 
 @Entity
 public class Aulateoria extends Aulas{
-	@Column (length=25) 
+	@Column (length=10) 
 	public String cantidadcomputadoras;
 
 	public String getCantidadcomputadoras() {
