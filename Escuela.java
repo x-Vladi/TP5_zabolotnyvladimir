@@ -17,7 +17,7 @@ private collection <Direccion> direccion;
 @Column (length=20)
 public String nombre;
 
-@Column (length=30)
+@Column (length=40)
 public String direccion;
 
 @Column (length=20)
