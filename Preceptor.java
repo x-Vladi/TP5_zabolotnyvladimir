@@ -10,7 +10,7 @@ public class Preceptor {
 	@OneToMany (mappedBy="Preceptor")
 	private collection <Persona> persona;
 	
-@Column (length= 20)
+@Column (length= 30)
 public String nombre;
 
 @Column (length=15)
