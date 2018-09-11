@@ -20,7 +20,7 @@ public String nombre;
 @Column (length=30)
 public String direccion;
 
-@Column (length=15)
+@Column (length=20)
 public String lugar;
 
 @Column (length= 12) @Required
