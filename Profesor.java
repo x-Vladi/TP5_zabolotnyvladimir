@@ -8,7 +8,7 @@ import org.openxava.persona.*;
 @Entity
 public class Profesor extends Persona {
 	
-	@Column (length=4) @Id @Required
+	@Column (length=6) @Id @Required
 	public String identificador;
 
 	public String getIdentificador() {
