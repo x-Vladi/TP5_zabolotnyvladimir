@@ -19,7 +19,7 @@ public class Aulas {
 	public String nombre;
 @Column (length= 25)
 	public String curso;
-@Column (length= 50)	
+@Column (length= 60)	
 	public String estado;
 
 
