@@ -24,7 +24,7 @@ private Escuela escuela;
 @Column (length= 20) @Required
 public String nombre;
 
-@Column (length= 15) @Required
+@Column (length= 20) @Required
 public String apellido;
 
 @Email
