@@ -8,7 +8,7 @@ import org.openxava.programas.*;
 @Entity
 public class Materiasteoria extends Programas {
 
-	@Column (length=25) @Required
+	@Column (length=30) @Required
 	public String nombre;
 
 	public String getNombre() {
