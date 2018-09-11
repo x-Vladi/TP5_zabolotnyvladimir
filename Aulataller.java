@@ -7,7 +7,7 @@ import org.openxava.aulas.*;
 @Entity
 public class Aulataller extends Aulas {
 	
-	@Column (length=4) 
+	@Column (length=15) 
 	public int cantidadbancos;
 
 	public int getCantidadbancos() {
