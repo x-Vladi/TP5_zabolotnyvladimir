@@ -9,7 +9,7 @@ public class Direccion {
 @ManyToOne
 private Escuela escuela;
 
-@Column (length= 5)
+@Column (length= 7)
 public int cantidaddirectivos;
 
 public int getCantidaddirectivos() {
