@@ -15,7 +15,7 @@ public class Programas {
 	public String nombre;
 @Column (length= 15) @Required
 	public String curso;
-@Column (length= 4)
+@Column (length= 6)
 	public int ciclo;
 @Column (length= 20 )
 	public String profesor;
