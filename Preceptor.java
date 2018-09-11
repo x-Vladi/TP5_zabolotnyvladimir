@@ -13,7 +13,7 @@ public class Preceptor {
 @Column (length= 30)
 public String nombre;
 
-@Column (length=15)
+@Column (length=30)
 public String apellido;
 
 @Required
